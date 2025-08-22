@@ -4,6 +4,7 @@ body{
     height: 96vh;
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    overflow-x: hidden;
 }
 
 header{
@@ -39,4 +40,5 @@ a{
 abbr{
     text-decoration: none;
     color: white;
+
 }
