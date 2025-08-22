@@ -4,7 +4,6 @@ body{
     height: 96vh;
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    overflow-x: hidden;
 }
 
 header{
@@ -13,8 +12,8 @@ header{
 }
 section{
   background-color: transparent;
-  width: 500px;
-  height: 300px;
+  width: 50vw;
+  height: 30vh;
   margin: auto;
   padding: 20px;
   border-radius: 20px;
@@ -23,8 +22,7 @@ section{
 }
 div{
     text-align: center;
-    position: relative;
-    transform: translateY(300%);
+    transform: translateY(200%);
     font: 20pt Arial, Helvetica, sans-serif;
     color:white
 }
@@ -40,5 +38,4 @@ a{
 abbr{
     text-decoration: none;
     color: white;
-
 }
